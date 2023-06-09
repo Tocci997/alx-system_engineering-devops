@@ -1,1 +1,1 @@
-A repository for shell basic scripts and their functions
+A repository for shell scripts and their functions
